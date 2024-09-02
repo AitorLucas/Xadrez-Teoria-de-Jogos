@@ -1,0 +1,39 @@
+Média de tempo das jogadas do sistema: 26.36s
+Desvio padrão do tempo das jogadas do sistema: 35.51s
+
+Movimentos do sistema:
+g8h6
+d7d6
+h8g8
+e7e5
+f8d6
+b8c6
+d8g5
+g8h8
+g5d2
+h6f5
+f5d6
+c8g4
+h8f8
+f8h8
+d6c8
+h8g8
+
+Movimentos do adversário:
+b1c3
+b2b3
+c1a3
+c3e4
+e4d6
+a3d6
+d1c1
+c1a3
+g1f3
+f3d2
+g2g4
+h1g1
+g1g4
+g4g7
+h2h4
+f1h3
+g7g8
